@@ -152,7 +152,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
 
                 // You Privacy Policy Url
-                Uri uri = Uri.parse("https://sites.google.com/view/writing-speed-quiz/");
+                Uri uri = Uri.parse("https://sites.google.com/view/math-quest-privacy-policy/home");
                 Intent intent = new Intent(Intent.ACTION_VIEW, uri);
                 startActivity(intent);
             }

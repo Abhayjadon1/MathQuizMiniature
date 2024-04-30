@@ -63,7 +63,7 @@
     <string name="admob_interstitial_id">ca-app-pub-3940256099942544/1033173712</string>
 
     <!-- Unity Ads -->
-    <string name="unityGameID">4873855</string>
+    <string name="unityGameID">6ff4b5e7-434c-4a9f-9b4d-75e83c3c836b</string>
     <string name="adUnitId">Rewarded_Android</string>
 
 
